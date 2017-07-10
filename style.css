@@ -1,0 +1,41 @@
+.container-fluid{
+                margin-top: -30px;
+                background-color: DarkGrey;
+                width: auto;
+                }
+
+.Name{
+      font-size: 20px;
+      color: yellow;
+      }
+
+.form-control{
+              right:0;
+              }
+
+.carousel-inner{
+              font-style: oblique;
+              justify-content: center;
+              }
+
+.thumbnail{
+          display:flex;
+          flex-wrap: wrap;
+          justify-content: center;
+          position:relative;
+          }
+
+.red{
+    color:red;
+    }
+
+.form-area{
+          background-color: #FAFAFA;
+          padding: 10px 40px 60px;
+          margin: 10px 0px 60px;
+          border: 1px solid GREY;
+          }
+
+.table, tr, td{
+              border: 2px solid black;
+              }
